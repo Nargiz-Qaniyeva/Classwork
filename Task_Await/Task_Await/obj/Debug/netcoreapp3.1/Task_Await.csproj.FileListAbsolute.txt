@@ -1,0 +1,14 @@
+C:\Users\nargi\Desktop\Thread\Task_Await\Task_Await\bin\Debug\netcoreapp3.1\Task_Await.exe
+C:\Users\nargi\Desktop\Thread\Task_Await\Task_Await\bin\Debug\netcoreapp3.1\Task_Await.deps.json
+C:\Users\nargi\Desktop\Thread\Task_Await\Task_Await\bin\Debug\netcoreapp3.1\Task_Await.runtimeconfig.json
+C:\Users\nargi\Desktop\Thread\Task_Await\Task_Await\bin\Debug\netcoreapp3.1\Task_Await.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\Thread\Task_Await\Task_Await\bin\Debug\netcoreapp3.1\Task_Await.dll
+C:\Users\nargi\Desktop\Thread\Task_Await\Task_Await\bin\Debug\netcoreapp3.1\Task_Await.pdb
+C:\Users\nargi\Desktop\Thread\Task_Await\Task_Await\obj\Debug\netcoreapp3.1\Task_Await.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\Thread\Task_Await\Task_Await\obj\Debug\netcoreapp3.1\Task_Await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\Thread\Task_Await\Task_Await\obj\Debug\netcoreapp3.1\Task_Await.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\Thread\Task_Await\Task_Await\obj\Debug\netcoreapp3.1\Task_Await.AssemblyInfo.cs
+C:\Users\nargi\Desktop\Thread\Task_Await\Task_Await\obj\Debug\netcoreapp3.1\Task_Await.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\Thread\Task_Await\Task_Await\obj\Debug\netcoreapp3.1\Task_Await.dll
+C:\Users\nargi\Desktop\Thread\Task_Await\Task_Await\obj\Debug\netcoreapp3.1\Task_Await.pdb
+C:\Users\nargi\Desktop\Thread\Task_Await\Task_Await\obj\Debug\netcoreapp3.1\Task_Await.genruntimeconfig.cache
